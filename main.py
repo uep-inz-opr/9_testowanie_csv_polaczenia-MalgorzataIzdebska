@@ -1,8 +1,3 @@
-
-if __name__ == "__main__":
-    pass
-
-
 import csv
 import unittest
 from unittest import TestCase
