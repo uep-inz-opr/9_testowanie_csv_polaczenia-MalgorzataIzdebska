@@ -23,4 +23,4 @@ class MenadzerPolaczen:
 
 if __name__ == "__main__":
     m=MenadzerPolaczen("phoneCalls.csv")
-    print(m.pobierz_najczesciej_dzwoniacego()
+    print(m.pobierz_najczesciej_dzwoniacego())
